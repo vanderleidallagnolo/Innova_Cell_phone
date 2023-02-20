@@ -1,7 +1,7 @@
 @font-face{
     font-family:'paradroidmonolight';
-    src:url('../fonts/assets/fonts/webfontkit-20230220-033126/paradroidmono-light.woff') format("woff");
-    src:url('../fonts/assets/fonts/webfontkit-20230220-033126/paradroidmono-light.woff2') format("woff2");
+    src:url('../fonts/webfontkit-20230220-033126/paradroidmono-light.woff') format("woff");
+    src:url('../fonts/webfontkit-20230220-033126/paradroidmono-light.woff2') format("woff2");
     font-weight: normal;
     font-style: normal;
 }
