@@ -1187,7 +1187,8 @@
 			color: rgb(32, 155, 91);
 			font-size: 5em;
 			font-weight: 400;
-			font-family: 'Passion One', cursive;
+			/*font-family: 'Passion One', cursive;*/
+			font-family: 'Paradroid';
 			margin: 0;
 		}
 
